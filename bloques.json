@@ -1,0 +1,92 @@
+{
+    "bloques": [
+      {
+        "codigo": "A00-B99",
+        "nombre": "CIERTAS ENFERMEDADES INFECCIOSAS Y PARASITARIAS"
+      },
+      {
+        "codigo": "C00-D48",
+        "nombre": "NEOPLASIAS"
+      },
+      {
+        "codigo": "D50-D89",
+        "nombre": "ENFERMEDADES DE LA SANGRE Y ÓRGANOS HEMATOPOYÉTICOS Y CIERTOS TRASTORNOS QUE AFECTAN AL MECANISMO INMUNOLÓGICO"
+      },
+      {
+        "codigo": "E00-E89",
+        "nombre": "ENFERMEDADES ENDOCRINAS, NUTRICIONALES Y METABÓLICAS"
+      },
+      {
+        "codigo": "F01-F99",
+        "nombre": "TRASTORNOS MENTALES, DEL COMPORTAMIENTO Y DEL DESARROLLO NEUROLÓGICO"
+      },
+      {
+        "codigo": "G00-G99",
+        "nombre": "ENFERMEDADES DEL SISTEMA NERVIOSO"
+      },
+      {
+        "codigo": "H00-H59",
+        "nombre": "ENFERMEDADES DEL OJO Y SUS ANEXOS"
+      },
+      {
+        "codigo": "H60-H95",
+        "nombre": "ENFERMEDADES DEL OÍDO Y DE LA APÓFISIS MASTOIDES"
+      },
+      {
+        "codigo": "I00-I99",
+        "nombre": "ENFERMEDADES DEL APARATO CIRCULATORIO"
+      },
+      {
+        "codigo": "J00-J99",
+        "nombre": "ENFERMEDADES DEL APARATO RESPIRATORIO"
+      },
+      {
+        "codigo": "K00-K95",
+        "nombre": "ENFERMEDADES DEL APARATO DIGESTIVO"
+      },
+      {
+        "codigo": "L00-L99",
+        "nombre": "ENFERMEDADES DE LA PIEL Y DEL TEJIDO SUBCUTÁNEO"
+      },
+      {
+        "codigo": "M00-M99",
+        "nombre": "ENFERMEDADES DEL APARATO MUSCULOESQUELÉTICO Y DEL TEJIDO CONECTIVO"
+      },
+      {
+        "codigo": "N00-N99",
+        "nombre": "ENFERMEDADES DEL APARATO GENITOURINARIO"
+      },
+      {
+        "codigo": "O00-O9A",
+        "nombre": "EMBARAZO, PARTO Y PUERPERIO"
+      },
+      {
+        "codigo": "P00-P96",
+        "nombre": "CIERTAS AFECCIONES ORIGINADAS EN EL PERÍODO PERINATAL"
+      },
+      {
+        "codigo": "Q00-Q99",
+        "nombre": "MALFORMACIONES CONGÉNITAS, DEFORMIDADES Y ANOMALÍAS CROMOSÓMICAS"
+      },
+      {
+        "codigo": "R00-R99",
+        "nombre": "SÍNTOMAS, SIGNOS Y RESULTADOS ANORMALES DE PRUEBAS COMPLEMENTARIAS, NO CLASIFICADOS BAJO OTRO CONCEPTO"
+      },
+      {
+        "codigo": "S00-T88",
+        "nombre": "LESIONES TRAUMÁTICAS, ENVENENAMIENTOS Y OTRAS CONSECUENCIAS DE CAUSAS EXTERNAS"
+      },
+      {
+        "codigo": "V00-Y99",
+        "nombre": "CAUSAS EXTERNAS DE MORBILIDAD"
+      },
+      {
+        "codigo": "Z00-Z99",
+        "nombre": "FACTORES QUE INFLUYEN EN EL ESTADO DE SALUD Y CONTACTO CON LOS SERVICIOS SANITARIOS"
+      },
+      {
+        "codigo": "U00-U85",
+        "nombre": "CÓDIGOS PARA PRÓPOSITOS ESPECIALES"
+      }
+    ]
+  }
