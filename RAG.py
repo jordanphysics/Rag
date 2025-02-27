@@ -34,7 +34,7 @@ def obtener_contexto_mmr(consulta, k=50, lambda_param=0.5):
         return f"Error al buscar contexto: {str(e)}"
 
 # Configurar cliente Groq
-client = Groq(api_key="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")
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # Función para generar respuesta utilizando el LLM de Groq
 def generar_respuesta_groq(consulta, contexto, temperature=0.0):
