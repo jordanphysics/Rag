@@ -68,7 +68,7 @@ def generar_respuesta_groq(consulta, contexto, temperature=0.0):
         return f"Error al generar la respuesta: {str(e)}"
 
 # Ejemplo de búsqueda y generación de respuesta
-consulta_ejemplo ="Trazo sugestivo de fractura de cúpula radial de codo derecho"
+consulta_ejemplo ="Trauma hombro derecho"
 
 #"Trauma hombro derecho" S407
 #"Fractura de 5to metatarsiano de pie izquierdo" S923
