@@ -6,7 +6,7 @@ import numpy as np
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from groq import Groq
-import os
+
 
 # Configurar embeddings con all-MiniLM
 embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
@@ -34,7 +34,7 @@ def obtener_contexto_mmr(consulta, k=50, lambda_param=0.5):
         return f"Error al buscar contexto: {str(e)}"
 
 # Configurar cliente Groq
-client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+client = Groq(api_key="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")
 
 # Función para generar respuesta utilizando el LLM de Groq
 def generar_respuesta_groq(consulta, contexto, temperature=0.0):
